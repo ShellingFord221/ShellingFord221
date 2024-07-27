@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShellingFord221
-- 👀 I’m interested in Bayesian Neural Network, uncertainty in deep learning
-- 🌱 I’m currently learning Continual Learning.
-- 💞️ I’m looking to collaborate on AI for Finance.
+- 👀 I’m interested in AI agent, RAG, continual pre-training of LLMs, Bayesian Neural Network, and also uncertainty in deep learning.
+- 🌱 I’m currently working on application of intelligent service robotics.
+- 💞️ I’m looking to collaborate on AI for Science, AI for Finance and other interesting topics.
 - 📫 How to reach me: yhong17@fudan.edu.cn
 
 <!---
